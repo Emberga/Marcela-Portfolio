@@ -1,0 +1,13 @@
+<template>
+ <div>
+     <hero></hero>
+     <projects></projects>
+     <about></about>
+     <contact></contact>
+     <footer-view></footer-view>
+ </div>
+</template>
+<script>
+</script>
+<style>
+</style>
